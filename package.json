@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
+    "@redux-devtools/core": "^3.13.1",
+    "@redux-devtools/extension": "^3.2.5",
     "redux": "^4.2.0"
   }
 }
